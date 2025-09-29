@@ -1,0 +1,4 @@
+*.csv
+*.pdf
+FASTA_EXPORTS/
+*/FASTA_EXPORTS/
